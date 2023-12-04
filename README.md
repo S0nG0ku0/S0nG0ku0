@@ -1,13 +1,33 @@
-# Hi there, I'm HAIDA Omar! 👋
- Cyber Secutiy Engineer 🔹 Backend Developer 🔹 Pentration Testing 🔹 Red Teamer
+# Hi, I'm Omar Haida 👋
+## Cybersecurity Engineer 🔐 | Ethical Hacker 💻 | Security Enthusiast 🛡️
 
-Welcome to my GitHub profile! I am a Java developer enthusiastic about sharing my work and contributing to open source projects. I have a passion for everything related to Java, Spring frameworks, distributed systems, and DevOps. Here you'll find a collection of my repos and projects.
+Welcome to my GitHub profile! I am a passionate cybersecurity professional specializing in ensuring the integrity, confidentiality, and availability of systems and data. I'm an ethical hacker keen on safeguarding digital assets and enhancing security postures against threats.
 
-- 💻 Currently studying at @1337
-- ✍️ Blogging on [haida.me](https://haida.me)
-- ✉️ Feel free to contact me at haidaomar663@gmail.com
-- 🤝 Open to collaborating on open source projects
-- 💬 Ask me about:
-  - Software Engineering and Web Development
-  - Java ecosystem: Spring | Spring Boot | Microservices
-  - DevOps & AI
+- 🔒 Skilled in Cybersecurity and Ethical Hacking techniques
+- 🌐 Working towards fortifying digital infrastructures
+- 💡 Sharing insights on cybersecurity through my projects and contributions
+- 🛠️ Proficient in various security tools and methodologies
+- 📚 Continuous learner in the ever-evolving cybersecurity landscape
+
+### GitHub Stats
+<!-- GitHub Stats -->
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+### Areas of Expertise:
+- Penetration Testing and Vulnerability Assessments
+- Threat Intelligence and Incident Response
+- Secure Coding and Application Security
+- Network Security and Cryptography
+
+### Connect with Me:
+- 📧 Email: your.email@example.com
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 🌐 Personal Website/Blog: [Your Website/Blog](https://yourwebsite.com)
+
+### Let's Collaborate:
+- 🤝 Open to collaborating on cybersecurity projects
+- 💬 Let's discuss anything related to:
+  - Cybersecurity Best Practices
+  - Ethical Hacking Techniques
+  - Security Operations and Incident Handling
