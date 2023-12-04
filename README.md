@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I am a passionate cybersecurity professional speci
 
 ### GitHub Stats
 <!-- GitHub Stats -->
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0nG0ku0&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S0nG0ku0&layout=compact&theme=dark)
 
 ### Areas of Expertise:
 - Penetration Testing and Vulnerability Assessments
