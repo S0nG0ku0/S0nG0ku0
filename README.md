@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate cybersecurity professional speci
 - 📚 Continuous learner in the ever-evolving cybersecurity landscape
 
 ### 42 Stats
-[![ohaida's 42 stats](https://badge.mediaplus.ma/greenbinary/ohaida)](https://github.com/oakoudad/badge42)
+[![ohaida's 42 stats](https://badge.mediaplus.ma/levi/ohaida)](https://github.com/oakoudad/badge42)
 
 ### GitHub Stats
 <!-- GitHub Stats -->
