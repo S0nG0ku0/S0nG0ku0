@@ -17,7 +17,7 @@ I'm a Cybersecurity Engineer 🔐, Ethical Hacker 💻, and a Security Enthusias
 
 ## 📈 My 42 Stats
 
-[![ohaida's 42 stats](https://badge.mediaplus.ma/darkblue/ohaida)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ohaida" alt="ohaida's 42 stats" /></a>
 
 ## 🎯 Areas of Expertise
 
