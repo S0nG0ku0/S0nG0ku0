@@ -15,10 +15,6 @@ I'm a Cybersecurity Engineer 🔐, Ethical Hacker 💻, and a Security Enthusias
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0nG0ku0&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S0nG0ku0&layout=compact&theme=dark)
 
-## 📈 My 42 Stats
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ohaida" alt="ohaida's 42 stats" /></a>
-
 ## 🎯 Areas of Expertise
 
 - Penetration Testing and Vulnerability Assessments
