@@ -2,8 +2,6 @@
 
 I'm a Cybersecurity Engineer 🔐, Ethical Hacker 💻, and a Security Enthusiast 🛡️. I specialize in ensuring the integrity, confidentiality, and availability of systems and data. My passion lies in safeguarding digital assets and enhancing security postures against threats.
 
-```$$\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/alexiszamanidis/background-images/master/attack-on-titan/mikasa-ackerman.jpg?raw=true');]{x0000}$}$$
-
 
 ## 🛠️ My Skills
 
