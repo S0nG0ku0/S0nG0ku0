@@ -1,4 +1,4 @@
-# Hi there, I'm Omar Haida 👋
+# Hi there, I'm S0nG0ku 👋
 
 I'm a Cybersecurity Engineer 🔐, Ethical Hacker 💻, and a Security Enthusiast 🛡️. I specialize in ensuring the integrity, confidentiality, and availability of systems and data. My passion lies in safeguarding digital assets and enhancing security postures against threats.
 
